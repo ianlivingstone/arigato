@@ -1,0 +1,22 @@
+{
+  "name": "arigato",
+  "version": "0.0.0",
+  "description": "arigato",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ianlivingstone/arigato.git"
+  },
+  "keywords": [
+    "arigato"
+  ],
+  "author": "Ian Livingstone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianlivingstone/arigato/issues"
+  },
+  "homepage": "https://github.com/ianlivingstone/arigato#readme"
+}
